@@ -8,5 +8,5 @@ This is a single page new website. This site is developed with HTML, CSS, Bootst
 
 ## Demo
 - Live
-    - [Blogger](https://mrhrifat.github.io/blogger)
+    - [Blogger](https://fkiptooh.github.io/news-website/)
 
